@@ -4,4 +4,6 @@
 /obj/
 /Build/
 /Builds/
+/UserSettings/
+/Packages/
 .vs
